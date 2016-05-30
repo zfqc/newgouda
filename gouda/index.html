@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>首页</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="css/mobile.css">
+    <link rel="stylesheet" href="css/home.css">
+    <link rel="stylesheet" href="css/swiper.min.css">
+    <style>
+    .swiper-container {
+       width:100%;height: 5.86rem;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .swiper-slide {
+        text-align: center;
+        font-size: 18px;
+        background: #fff;
+        /* Center slide text vertically */
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        -webkit-justify-content: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        -webkit-align-items: center;
+        align-items: center;
+    }
+        .swiper-slide img{
+            width:100%;height: 100%;
+        }
+        .swiper-wrapper{
+            height: 100%;
+        }
+         .swiper-pagination-bullet-active{
+            background: red;
+        }
+    </style>
+</head>
+<body>
+  <div class="chu_wrap">
+       <div class="main">
+           <header class="header">
+               <span id="sp"></span>
+               <input type="text" placeholder="上装 / 裙装 / 裤装 / 品牌" id="txt">
+               <a href="#" id="btn"></a>
+           </header>
+           <section class="content">
+               <div class="swiper-container">
+                    <div class="swiper-wrapper banner">
+                    </div>
+                    <!-- Add Pagination -->
+                    <div class="swiper-pagination"></div>
+            </div>
+                <div class="nav"></div>
+                <div class="list"></div>
+           </section>
+           
+       </div>
+       <footer>
+                <ul id="lis">
+                    <li><a href="javascript:;"><img src="./img/bg1.png" alt=""><span class="bg">首页</span></a></li>
+                    <li><a href="./fenlei/index.html"><img src="./img/f2.png" alt=""><span>分类</span></a></li>
+                    <li><a href="#"><img src="./img/f3.png" alt=""><span>试穿</span></a></li>
+                    <li><a href="./dapei/dapei.html"><img src="./img/f4.png" alt=""><span>搭配</span></a></li>
+                    <li><a href="./wode/mine.html"><img src="./img/f5.png" alt=""><span>我的</span></a></li>
+                </ul>
+       </footer>
+ </div>
+    <script src="js/zepto.min.js"></script>
+    <script src="js/swiper.min.js"></script>
+    <script src="js/setfontsize.js"></script>    
+    <script src="js/jquery.min.js"></script>
+    <script src="js/echo.min.js"></script>
+    <script src="js/home.js"></script>
+    <script>
+        setTimeout(function(){
+             var swiper = new Swiper('.swiper-container', {
+                pagination: '.swiper-pagination',
+                paginationClickable: true,
+                autoplay: 4000,  
+                loop:true  //无缝
+            });
+        },100)
+        
+          echo.init();
+        
+        
+      
+        
+    </script>
+</body>
+</html>

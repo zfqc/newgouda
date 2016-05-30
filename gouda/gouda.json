@@ -1,0 +1,2255 @@
+{
+    "banner": [
+        {
+            "imgURL": "banner01_r2_c1.png"
+        },
+        {
+            "imgURL": "banner02_r2_c1.png"
+        },
+        {
+            "imgURL": "banner03_r2_c1.png"
+        },
+        {
+            "imgURL": "banner04_r2_c1.png"
+        },
+        {
+            "imgURL": "banner05_r2_c1.png"
+        }
+    ],
+    "navlist": [
+        {
+            "上装": [
+                {
+                    "imgURL": "shang-nav-01.png",
+                    "name": "羽绒服"
+                },
+                {
+                    "imgURL": "shang-nav-02.png",
+                    "name": "卫衣"
+                },
+                {
+                    "imgURL": "shang-nav-03.png",
+                    "name": "衬衫"
+                },
+                {
+                    "imgURL": "shang-nav-04.png",
+                    "name": "棉衣"
+                },
+                {
+                    "imgURL": "shang-nav-05.png",
+                    "name": "皮衣"
+                },
+                {
+                    "imgURL": "shang-nav-06.png",
+                    "name": "皮草"
+                },
+                {
+                    "imgURL": "shang-nav-07.png",
+                    "name": "风衣"
+                },
+                {
+                    "imgURL": "shang-nav-10.png",
+                    "name": "西服"
+                },
+                {
+                    "imgURL": "shang-nav-08.png",
+                    "name": "轻羽绒"
+                },
+                {
+                    "imgURL": "shang-nav-09.png",
+                    "name": "毛呢外套"
+                }
+            ],
+            "裙装": [
+                {
+                    "imgURL": "qun-nav-01.png",
+                    "name": "毛呢连衣裙"
+                },
+                {
+                    "imgURL": "qun-nav-02.png",
+                    "name": "冬款连衣裙"
+                },
+                {
+                    "imgURL": "qun-nav-03.png",
+                    "name": "短裤连衣裙"
+                },
+                {
+                    "imgURL": "qun-nav-04.png",
+                    "name": "套装裙"
+                },
+                {
+                    "imgURL": "qun-nav-05.png",
+                    "name": "秋冬裙装"
+                },
+                {
+                    "imgURL": "qun-nav-06.png",
+                    "name": "长袖裙"
+                },
+                {
+                    "imgURL": "qun-nav-07.png",
+                    "name": "背心裙"
+                },
+                {
+                    "imgURL": "qun-nav-08.png",
+                    "name": "半身裙"
+                },
+                {
+                    "imgURL": "qun-nav-09.png",
+                    "name": "秋季长裙"
+                }
+            ],
+            "裤装": [
+                {
+                    "imgURL": "kuzi-nav-01.png",
+                    "name": "打底裤"
+                },
+                {
+                    "imgURL": "kuzi-nav-02.png",
+                    "name": "牛仔裤"
+                },
+                {
+                    "imgURL": "kuzi-nav-03.png",
+                    "name": "打底裤"
+                },
+                {
+                    "imgURL": "kuzi-nav-04.png",
+                    "name": "秋冬长裤"
+                },
+                {
+                    "imgURL": "kuzi-nav-05.png",
+                    "name": "暖冬短裤"
+                },
+                {
+                    "imgURL": "kuzi-nav-06.png",
+                    "name": "小短裤"
+                },
+                {
+                    "imgURL": "kuzi-nav-07.png",
+                    "name": "哈伦裤"
+                }
+            ],
+            "品牌": [
+                {
+                    "imgURL": "pinpai-01.png",
+                    "name": "ochirly"
+                },
+                {
+                    "imgURL": "pinpai-02.png",
+                    "name": "zk"
+                },
+                {
+                    "imgURL": "pinpai-03.png",
+                    "name": "一米阳光"
+                },
+                {
+                    "imgURL": "pinpai-04.png",
+                    "name": "amass"
+                },
+                {
+                    "imgURL": "pinpai-05.png",
+                    "name": "tuneyune"
+                },
+                {
+                    "imgURL": "pinpai-06.png",
+                    "name": "tidezone"
+                },
+                {
+                    "imgURL": "pinpai-07.png",
+                    "name": "苏醒的乐园"
+                },
+                {
+                    "imgURL": "pinpai-08.png",
+                    "name": "商都芭比"
+                }
+            ]
+        }
+    ],
+    "bigList": [
+        {
+            "imgURL": "list-01.jpg",
+            "tit": "第七公社哆啦A梦T恤2015新款卡通动漫半截袖圆领印花度研修T恤衫潮",
+            "pirce": "￥89.0",
+            "btn": "试穿",
+            "img": [
+                {
+                    "bigimg": "xiangqin-01.png"
+                },
+                {
+                    "bigimg": "xiangqin-02.png"
+                },
+                {
+                    "bigimg": "xiangqin-03.png"
+                },
+                {
+                    "bigimg": "xiangqin-04.png"
+                }
+            ],
+            "size": {
+                "man": "男XS",
+                "man2": "男S",
+                "man3": "男M",
+                "man4": "男L",
+                "man5": "男XL",
+                "man6": "男XXL",
+                "woman1": "女S",
+                "woman2": "女M",
+                "woman3": "女L",
+                "woman4": "女XL"
+            },
+            "color": {
+                "white": "白色中长款",
+                "black": "黑搭肩中性款",
+                "yellow": "黄色中性款",
+                "blue": "湖蓝色中性款",
+                "gray": "灰色中性款",
+                "pink": "粉色收腰女款",
+                "red": "红色款式"
+            }
+        },
+        {
+            "imgURL": "list-02.png",
+            "tit": "水瓶宝贝2015韩版姐妹闺蜜装半截袖T恤女夏装短袖",
+            "pirce": "￥58.0",
+            "btn": "试穿",
+            "img": [
+                {
+                    "bigimg": "xiangqin-05.png"
+                },
+                {
+                    "bigimg": "xiangqin-06.png"
+                },
+                {
+                    "bigimg": "xiangqin-03.png"
+                },
+                {
+                    "bigimg": "xiangqin-04.png"
+                }
+            ],
+            "size": {
+                "man": "男XS",
+                "man2": "男S",
+                "man3": "男M",
+                "man4": "男L",
+                "man5": "男XL",
+                "man6": "男XXL",
+                "woman1": "女S",
+                "woman2": "女M",
+                "woman3": "女L",
+                "woman4": "女XL"
+            },
+            "color": {
+                "white": "白色中长款",
+                "black": "黑搭肩中性款",
+                "yellow": "黄色中性款",
+                "blue": "湖蓝色中性款",
+                "gray": "灰色中性款",
+                "pink": "粉色收腰女款",
+                "red": "红色款式"
+            }
+        },
+        {
+            "imgURL": "list-03.jpg",
+            "tit": "萌小雅夏季半截袖女可爱胡子百搭流行搞怪短袖T恤半袖时尚小短衫",
+            "pirce": "￥39.0",
+            "btn": "试穿",
+            "img": [
+                {
+                    "bigimg": "xiangqin-07.png"
+                },
+                {
+                    "bigimg": "xiangqin-08.png"
+                },
+                {
+                    "bigimg": "xiangqin-09.png"
+                },
+                {
+                    "bigimg": "xiangqin-04.png"
+                }
+            ],
+            "size": {
+                "woman": "X",
+                "woman2": "L",
+                "woman3": "XL",
+                "woman4": "XXL"
+            },
+            "color": {
+                "white": "白色小胡子T恤",
+                "red": "红色小胡子T恤",
+                "yellow": "黄色小胡子T恤"
+            }
+        },
+        {
+            "imgURL": "list-04.png",
+            "tit": "夏季粉红豹姐妹闺蜜装短袖T恤宽松班服女潮牌男情侣",
+            "pirce": "￥42.0",
+            "btn": "试穿",
+            "img": [
+                {
+                    "bigimg": "xiangqin-05.png"
+                },
+                {
+                    "bigimg": "xiangqin-06.png"
+                },
+                {
+                    "bigimg": "xiangqin-03.png"
+                },
+                {
+                    "bigimg": "xiangqin-04.png"
+                }
+            ],
+            "size": {
+                "man": "男XS",
+                "man2": "男S",
+                "man3": "男M",
+                "man4": "男L",
+                "man5": "男XL",
+                "man6": "男XXL",
+                "woman1": "女S",
+                "woman2": "女M",
+                "woman3": "女L",
+                "woman4": "女XL"
+            },
+            "color": {
+                "white": "白色中长款",
+                "black": "黑搭肩中性款",
+                "yellow": "黄色中性款",
+                "blue": "湖蓝色中性款",
+                "gray": "灰色中性款",
+                "pink": "粉色收腰女款",
+                "red": "红色款式"
+            }
+        },
+        {
+            "imgURL": "list-05.png",
+            "tit": "韩国UIzzang夏季宽松大码女短袖T恤衫班服情侣装T恤潮迷彩半截袖",
+            "pirce": "￥39.0",
+            "btn": "试穿",
+            "img": [
+                {
+                    "bigimg": "xiangqin-01.png"
+                },
+                {
+                    "bigimg": "xiangqin-02.png"
+                },
+                {
+                    "bigimg": "xiangqin-03.png"
+                },
+                {
+                    "bigimg": "xiangqin-04.png"
+                }
+            ],
+            "size": {
+                "man": "男XS",
+                "man2": "男S",
+                "man3": "男M",
+                "man4": "男L",
+                "man5": "男XL",
+                "man6": "男XXL",
+                "woman1": "女S",
+                "woman2": "女M",
+                "woman3": "女L",
+                "woman4": "女XL"
+            },
+            "color": {
+                "white": "白色中长款",
+                "black": "黑搭肩中性款",
+                "yellow": "黄色中性款",
+                "blue": "湖蓝色中性款",
+                "gray": "灰色中性款",
+                "pink": "粉色收腰女款",
+                "red": "红色款式"
+            }
+        },
+        {
+            "imgURL": "list-07.png",
+            "tit": "派秋季新品小脚运女大码哈伦裤宽松休闲卫裤春秋加厚长裤",
+            "pirce": "￥99.0",
+            "btn": "试穿",
+            "img": [
+                {
+                    "bigimg": "xiangqin-05.png"
+                },
+                {
+                    "bigimg": "xiangqin-06.png"
+                },
+                {
+                    "bigimg": "xiangqin-03.png"
+                },
+                {
+                    "bigimg": "xiangqin-04.png"
+                }
+            ],
+            "size": {
+                "man": "S",
+                "man2": "M",
+                "man3": "L",
+                "man4": "XL",
+                "man5": "XXL"
+            },
+            "color": {
+                "white": "花灰色",
+                "red": "红色",
+                "blue": "宝蓝色",
+                "black": "黑色"
+            }
+        },
+        {
+            "imgURL": "list-06.png",
+            "tit": "派衣秋季新品小脚运动裤女大码哈伦裤宽松休闲卫裤春秋加厚长裤",
+            "pirce": "￥99.0",
+            "btn": "试穿",
+            "img": [
+                {
+                    "bigimg": "xiangqin-05.png"
+                },
+                {
+                    "bigimg": "xiangqin-06.png"
+                },
+                {
+                    "bigimg": "xiangqin-03.png"
+                },
+                {
+                    "bigimg": "xiangqin-04.png"
+                }
+            ],
+            "size": {
+                "man": "S",
+                "man2": "M",
+                "man3": "L",
+                "man4": "XL",
+                "man5": "XXL"
+            },
+            "color": {
+                "white": "花灰色",
+                "red": "红色",
+                "blue": "宝蓝色",
+                "black": "黑色"
+            }
+        }
+    ],
+	"fenlei": [
+		{
+			"场合": [
+				{
+					"imgURL": "chang-nav-01.png",
+					"name": "甜蜜约会",
+					"甜蜜约会": [
+						{
+							"imgs": "list-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-02.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-03.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-04.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-05.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+                    ]
+                },
+				{
+
+					"imgURL": "chang-nav-02.png",
+					"name": "优雅的派对",
+					"优雅的派对": [
+						{
+							"imgs": "list-06.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-07.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-08.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-09.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-10.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-11.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "chang-nav-03.png",
+					"name": "校园风格",
+					"校园风格": [
+						{
+							"imgs": "list-12.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-13.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-14.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-15.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-16.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-12.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "chang-nav-04.png",
+					"name": "英伦复古",
+					"英伦复古": [
+						{
+							"imgs": "list-17.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-18.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-19.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-20.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-21.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-22.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-23.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "chang-nav-05.png",
+					"name": "懒人穿搭",
+					"懒人穿搭": [
+						{
+							"imgs": "list-02.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-04.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-06.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-08.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-10.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-12.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-14.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "chang-nav-06.png",
+					"name": "优雅上班",
+					"优雅上班": [
+						{
+							"imgs": "list-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-03.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-05.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-07.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-09.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-11.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-13.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "chang-nav-07.png",
+					"name": "周末聚会",
+					"周末聚会": [
+						{
+							"imgs": "list-12.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-14.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-16.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-18.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-20.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-22.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-23.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "chang-nav-08.png",
+					"name": "甜蜜约会",
+					"甜蜜约会": [
+						{
+							"imgs": "list-15.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-17.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-19.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-21.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-23.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-03.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "chang-nav-09.png",
+					"name": "度假出游",
+					"度假出游": [
+						{
+							"imgs": "nav-banshen-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-02.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-03.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-04.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-05.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-06.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                }
+            ],
+			"风格": [
+				{
+					"imgURL": "fengge-nav-01.png",
+					"name": "韩系",
+					"韩系": [
+						{
+							"imgs": "nav-banshen-07.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-08.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-09.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-10.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-11.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-12.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "fengge-nav-02.png",
+					"name": "欧美",
+					"欧美": [
+						{
+							"imgs": "nav-banshen-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-03.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-05.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-07.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-09.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-11.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-12.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "fengge-nav-03.png",
+					"name": "甜美",
+					"甜美": [
+						{
+							"imgs": "nav-banshen-02.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-04.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-06.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-08.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-10.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-12.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "fengge-nav-04.png",
+					"name": "学院",
+					"学院": [
+						{
+							"imgs": "nav-beixin-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-02.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-03.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-04.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-05.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-06.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "fengge-nav-05.png",
+					"name": "轻熟",
+					"轻熟": [
+						{
+							"imgs": "nav-beixin-07.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-08.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-09.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-10.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-11.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-12.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "fengge-nav-06.png",
+					"name": "复古",
+					"复古": [
+						{
+							"imgs": "nav-beixin-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-03.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-05.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-07.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-09.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-11.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "fengge-nav-07.png",
+					"name": "清新",
+					"清新": [
+						{
+							"imgs": "nav-beixin-02.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-04.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-06.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-08.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-10.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-12.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "fengge-nav-08.png",
+					"name": "嘻哈",
+					"嘻哈": [
+						{
+							"imgs": "nav-beixin-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-05.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-02.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-03.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-12.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-08.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "fengge-nav-09.png",
+					"name": "百搭",
+					"百搭": [
+						{
+							"imgs": "nav-xian-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-xian-02.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-xian-03.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-xian-04.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "fengge-nav-10.png",
+					"name": "民族",
+					"民族": [
+						{
+							"imgs": "list-09.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-10.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-02.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-04.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-06.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                }
+            ],
+			"身材": [
+				{
+					"imgURL": "shencai-nav-01.png",
+					"name": "大pp",
+					"大pp": [
+						{
+							"imgs": "list-07.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-08.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-09.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-10.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "shencai-nav-02.png",
+					"name": "娇小型",
+					"娇小型": [
+						{
+							"imgs": "list-12.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-13.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-14.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-15.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-16.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-17.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "shencai-nav-03.png",
+					"name": "显瘦",
+					"显瘦": [
+						{
+							"imgs": "list-18.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-19.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-20.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-21.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-22.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "shencai-nav-04.png",
+					"name": "平胸",
+					"平胸": [
+						{
+							"imgs": "list-03.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-08.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-05.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-09.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-13.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "shencai-nav-05.png",
+					"name": "粗臀",
+					"粗臀": [
+						{
+							"imgs": "list-05.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-02.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-03.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-10.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-13.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "shencai-nav-06.png",
+					"name": "小肚腩",
+					"小肚腩": [
+						{
+							"imgs": "list-03.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-02.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-03.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-19.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-20.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "shencai-nav-07.png",
+					"name": "显白",
+					"显白": [
+						{
+							"imgs": "list-07.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-04.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-03.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-12.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-20.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+
+                }
+            ],
+			"裙装": [
+				{
+					"imgURL": "qun-nav-01.png",
+					"name": "毛呢连衣裙",
+					"毛呢连衣裙": [
+						{
+							"imgs": "list-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-07.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-04.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-03.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-12.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-21.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+
+                },
+				{
+					"imgURL": "qun-nav-02.png",
+					"name": "秋冬连衣裙",
+					"秋冬连衣裙": [
+						{
+							"imgs": "list-04.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-02.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-03.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-12.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-22.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "qun-nav-03.png",
+					"name": "短裤连衣裙",
+					"短裤连衣裙": [
+						{
+							"imgs": "list-20.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-02.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-03.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-13.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-14.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "qun-nav-04.png",
+					"name": "套装裙",
+					"套装裙": [
+						{
+							"imgs": "nav-beixin-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-05.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-02.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-03.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-12.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-08.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "qun-nav-05.png",
+					"name": "长袖裙",
+					"长袖裙": [
+						{
+							"imgs": "nav-beixin-04.png"
+						}, {
+							"imgs": "nav-beixin-09.png"
+						}, {
+							"imgs": "nav-beixin-06.png"
+						}, {
+							"imgs": "nav-beixin-03.png"
+						}, {
+							"imgs": "nav-beixin-11.png"
+						}, {
+							"imgs": "nav-beixin-08.png"
+						}
+					]
+
+                },
+				{
+					"imgURL": "qun-nav-06.png",
+					"name": "背心裙",
+					"背心裙": [
+						{
+							"imgs": "list-02.png"
+						}, {
+							"imgs": "list-04.png"
+						}, {
+							"imgs": "list-09.png"
+						}, {
+							"imgs": "list-03.png"
+						}, {
+							"imgs": "list-13.png"
+						}, {
+							"imgs": "list-14.png"
+						}
+					]
+                },
+				{
+					"imgURL": "qun-nav-07.png",
+					"name": "秋季长裙",
+					"秋季长裙": [
+						{
+							"imgs": "list-09.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-04.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-03.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-12.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-14.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "qun-nav-08.png",
+					"name": "毛呢连衣裙",
+					"毛呢连衣裙": [
+						{
+							"imgs": "nav-beixin-04.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-09.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-06.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-03.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-11.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-08.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+
+                }
+            ],
+			"上装": [
+				{
+					"imgURL": "shang-nav-01.png",
+					"name": "羽绒服",
+					"羽绒服": [
+						{
+							"imgs": "nav-beixin-04.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-09.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-06.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-03.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-11.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-08.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "shang-nav-02.png",
+					"name": "卫衣",
+					"卫衣": [
+						{
+							"imgs": "nav-beixin-04.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-09.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-06.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-03.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-11.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-08.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "shang-nav-03.png",
+					"name": "衬衫",
+					"衬衫": [
+						{
+							"imgs": "nav-beixin-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-02.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-08.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-12.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-10.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+
+                },
+				{
+					"imgURL": "shang-nav-04.png",
+					"name": "棉衣",
+					"棉衣": [
+						{
+							"imgs": "nav-beixin-11.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-04.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-10.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-12.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+
+                },
+				{
+					"imgURL": "shang-nav-05.png",
+					"name": "皮衣",
+					"皮衣": [
+						{
+							"imgs": "list-02.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-04.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-09.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-03.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-13.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-14.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "shang-nav-06.png",
+					"name": "皮草",
+					"皮草": [
+						{
+							"imgs": "list-07.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-08.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-09.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-14.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-12.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "shang-nav-07.png",
+					"name": "风衣",
+					"风衣": [
+						{
+							"imgs": "list-09.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-04.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-02.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-14.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-11.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "shang-nav-10.png",
+					"name": "西服",
+					"西服": [
+						{
+							"imgs": "list-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-03.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-04.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-09.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-13.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "list-14.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "shang-nav-08.png",
+					"name": "轻羽绒",
+					"轻羽绒": [
+						{
+							"imgs": "nav-beixin-07.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-06.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-09.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-12.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "shang-nav-09.png",
+					"name": "毛呢外套",
+					"毛呢外套": [
+						{
+							"imgs": "nav-beixin-08.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-04.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-10.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-12.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                }
+            ],
+			"裤装": [
+				{
+					"imgURL": "kuzi-nav-01.png",
+					"name": "打底裤",
+					"打底裤": [
+						{
+							"imgs": "nav-beixin-02.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-08.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-10.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-12.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "kuzi-nav-02.png",
+					"name": "牛仔裤",
+					"牛仔裤": [
+						{
+							"imgs": "nav-beixin-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-02.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-08.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-10.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-11.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "kuzi-nav-03.png",
+					"name": "打底裤",
+					"打底裤": [
+						{
+							"imgs": "nav-beixin-11.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-02.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-09.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-11.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "kuzi-nav-04.png",
+					"name": "秋冬长裤",
+					"秋冬长裤": [
+						{
+							"imgs": "nav-beixin-05.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-07.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-08.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-10.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "kuzi-nav-05.png",
+					"name": "暖冬短裤",
+					"暖冬短裤": [
+						{
+							"imgs": "nav-beixin-09.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-03.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-04.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-beixin-02.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "kuzi-nav-06.png",
+					"name": "小短裤",
+					"小短裤": [
+						{
+							"imgs": "nav-banshen-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-09.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-02.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-04.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-12.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                },
+				{
+					"imgURL": "kuzi-nav-07.png",
+					"name": "哈伦裤",
+					"哈伦裤": [
+						{
+							"imgs": "nav-banshen-05.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-01.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-03.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-07.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-09.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}, {
+							"imgs": "nav-banshen-10.png",
+							"list": "2016春夏装新款大码欧美复古蓬蓬毛",
+							"prace": "￥263.0"
+						}
+					]
+                }
+            ]
+        }
+    ],
+    "dapei": [
+        {
+            "潮流": [
+                {
+                    "imgURL": "list-01.jpg",
+                    "tit": "第七公社哆啦A梦T恤2015新款卡通动漫半截袖圆领印花度研修T恤衫潮",
+                    "pirce": "￥89.0",
+                    "btn": "试穿",
+                    "img": [
+                        {
+                            "bigimg": "xiangqin-01.png"
+                            },
+                        {
+                            "bigimg": "xiangqin-02.png"
+                            },
+                        {
+                            "bigimg": "xiangqin-03.png"
+                            },
+                        {
+                            "bigimg": "xiangqin-04.png"
+                            }
+                        ],
+                    "size": {
+                        "man": "男XS",
+                        "man2": "男S",
+                        "man3": "男M",
+                        "man4": "男L",
+                        "man5": "男XL",
+                        "man6": "男XXL",
+                        "woman1": "女S",
+                        "woman2": "女M",
+                        "woman3": "女L",
+                        "woman4": "女XL"
+                    },
+                    "color": {
+                        "white": "白色中长款",
+                        "black": "黑搭肩中性款",
+                        "yellow": "黄色中性款",
+                        "blue": "湖蓝色中性款",
+                        "gray": "灰色中性款",
+                        "pink": "粉色收腰女款",
+                        "red": "红色款式"
+                    }
+                    },
+                {
+                    "imgURL": "list-02.jpg",
+                    "tit": "水瓶宝贝2015韩版姐妹闺蜜装半截袖T恤女夏装短袖",
+                    "pirce": "￥58.0",
+                    "btn": "试穿",
+                    "img": [
+                        {
+                            "bigimg": "xiangqin-05.png"
+                            },
+                        {
+                            "bigimg": "xiangqin-06.png"
+                            },
+                        {
+                            "bigimg": "xiangqin-03.png"
+                            },
+                        {
+                            "bigimg": "xiangqin-04.png"
+                            }
+                        ],
+                    "size": {
+                        "man": "男XS",
+                        "man2": "男S",
+                        "man3": "男M",
+                        "man4": "男L",
+                        "man5": "男XL",
+                        "man6": "男XXL",
+                        "woman1": "女S",
+                        "woman2": "女M",
+                        "woman3": "女L",
+                        "woman4": "女XL"
+                    },
+                    "color": {
+                        "white": "白色中长款",
+                        "black": "黑搭肩中性款",
+                        "yellow": "黄色中性款",
+                        "blue": "湖蓝色中性款",
+                        "gray": "灰色中性款",
+                        "pink": "粉色收腰女款",
+                        "red": "红色款式"
+                    }
+                    },
+                {
+                    "imgURL": "list-03.jpg",
+                    "tit": "萌小雅夏季半截袖女可爱胡子百搭流行搞怪短袖T恤半袖时尚小短衫",
+                    "pirce": "￥39.0",
+                    "btn": "试穿",
+                    "img": [
+                        {
+                            "bigimg": "xiangqin-07.png"
+                            },
+                        {
+                            "bigimg": "xiangqin-08.png"
+                            },
+                        {
+                            "bigimg": "xiangqin-09.png"
+                            },
+                        {
+                            "bigimg": "xiangqin-04.png"
+                            }
+                        ],
+                    "size": {
+                        "woman": "X",
+                        "woman2": "L",
+                        "woman3": "XL",
+                        "woman4": "XXL"
+                    },
+                    "color": {
+                        "white": "白色小胡子T恤",
+                        "red": "红色小胡子T恤",
+                        "yellow": "黄色小胡子T恤"
+                    }
+                    },
+                {
+                    "imgURL": "list-04.jpg",
+                    "tit": "夏季粉红豹姐妹闺蜜装短袖T恤宽松班服女潮牌男情侣",
+                    "pirce": "￥42.0",
+                    "btn": "试穿",
+                    "img": [
+                        {
+                            "bigimg": "xiangqin-05.png"
+                            },
+                        {
+                            "bigimg": "xiangqin-06.png"
+                            },
+                        {
+                            "bigimg": "xiangqin-03.png"
+                            },
+                        {
+                            "bigimg": "xiangqin-04.png"
+                            }
+                        ],
+                    "size": {
+                        "man": "男XS",
+                        "man2": "男S",
+                        "man3": "男M",
+                        "man4": "男L",
+                        "man5": "男XL",
+                        "man6": "男XXL",
+                        "woman1": "女S",
+                        "woman2": "女M",
+                        "woman3": "女L",
+                        "woman4": "女XL"
+                    },
+                    "color": {
+                        "white": "白色中长款",
+                        "black": "黑搭肩中性款",
+                        "yellow": "黄色中性款",
+                        "blue": "湖蓝色中性款",
+                        "gray": "灰色中性款",
+                        "pink": "粉色收腰女款",
+                        "red": "红色款式"
+                    }
+                    }
+            ],
+            "人气":[
+                {
+            "imgURL": "list-06.jpg",
+            "tit": "夏季粉红豹姐妹闺蜜装短袖T恤宽松班服女潮牌男情侣",
+            "pirce": "￥42.0",
+            "btn": "试穿",
+            "img": [
+                {
+                    "bigimg": "xiangqin-05.png"
+                },
+                {
+                    "bigimg": "xiangqin-06.png"
+                },
+                {
+                    "bigimg": "xiangqin-03.png"
+                },
+                {
+                    "bigimg": "xiangqin-04.png"
+                }
+            ],
+            "size": {
+                "man": "男XS",
+                "man2": "男S",
+                "man3": "男M",
+                "man4": "男L",
+                "man5": "男XL",
+                "man6": "男XXL",
+                "woman1": "女S",
+                "woman2": "女M",
+                "woman3": "女L",
+                "woman4": "女XL"
+            },
+            "color": {
+                "white": "白色中长款",
+                "black": "黑搭肩中性款",
+                "yellow": "黄色中性款",
+                "blue": "湖蓝色中性款",
+                "gray": "灰色中性款",
+                "pink": "粉色收腰女款",
+                "red": "红色款式"
+            }
+        },
+                {
+                    "imgURL": "list-08.jpg",
+                    "tit": "韩国UIzzang夏季宽松大码女短袖T恤衫班服情侣装T恤潮迷彩半截袖",
+                    "pirce": "￥39.0",
+                    "btn": "试穿",
+                    "img": [
+                        {
+                            "bigimg": "xiangqin-01.png"
+                        },
+                        {
+                            "bigimg": "xiangqin-02.png"
+                        },
+                        {
+                            "bigimg": "xiangqin-03.png"
+                        },
+                        {
+                            "bigimg": "xiangqin-04.png"
+                        }
+                    ],
+                    "size": {
+                        "man": "男XS",
+                        "man2": "男S",
+                        "man3": "男M",
+                        "man4": "男L",
+                        "man5": "男XL",
+                        "man6": "男XXL",
+                        "woman1": "女S",
+                        "woman2": "女M",
+                        "woman3": "女L",
+                        "woman4": "女XL"
+                    },
+                    "color": {
+                        "white": "白色中长款",
+                        "black": "黑搭肩中性款",
+                        "yellow": "黄色中性款",
+                        "blue": "湖蓝色中性款",
+                        "gray": "灰色中性款",
+                        "pink": "粉色收腰女款",
+                        "red": "红色款式"
+                    }
+                },
+                {
+                    "imgURL": "list-09.jpg",
+                    "tit": "派衣秋季新品小脚运动裤女大码哈伦裤宽松休闲卫裤春秋加厚长裤",
+                    "pirce": "￥99.0",
+                    "btn": "试穿",
+                    "img": [
+                        {
+                            "bigimg": "xiangqin-05.png"
+                        },
+                        {
+                            "bigimg": "xiangqin-06.png"
+                        },
+                        {
+                            "bigimg": "xiangqin-03.png"
+                        },
+                        {
+                            "bigimg": "xiangqin-04.png"
+                        }
+                    ],
+                    "size": {
+                        "man": "S",
+                        "man2": "M",
+                        "man3": "L",
+                        "man4": "XL",
+                        "man5": "XXL"
+                    },
+                    "color": {
+                        "white": "花灰色",
+                        "red": "红色",
+                        "blue": "宝蓝色",
+                        "black": "黑色"
+                    }
+                }
+            ]
+        }
+    ]
+}

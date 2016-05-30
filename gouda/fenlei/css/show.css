@@ -1,0 +1,47 @@
+.titMessage {
+	width: 100%;
+	background: #f7f7f7;
+}
+
+.titMessage ul {
+	list-style: none;
+	width: 100%;
+}
+
+.titMessage ul li {
+	width: 45%;
+	float: left;
+	background: #fff;
+	margin-left: 0.5rem;
+	margin-top: 0.3rem;
+	box-shadow: 1px 1px 3px #d9d0d0;
+	
+}
+
+.titMessage ul li img {
+	height: 7.525rem;
+	width: 95%;
+	margin:2.5%;
+}
+
+.titMessage ul li h2 {
+	width: 100%;
+	font-size: 0.6rem;
+	color: #333;
+	font-family: "微软雅黑";
+	font-weight: normal;
+	margin-top: 0.3rem;
+	margin-left: 0.3rem;
+}
+.titMessage ul li p{
+	line-height: 1.5rem;
+	font-size: 0.8rem;
+	font-family: "微软雅黑";
+	color:#e60b4f;
+	margin-left: 0.3rem;
+	
+}
+.tit h1 a{
+	color:#fff;
+	float:left;
+}

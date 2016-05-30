@@ -1,0 +1,894 @@
+{
+    "banner": [
+        {
+            "imgURL": "banner01_r2_c1.png"
+        },
+        {
+            "imgURL": "banner02_r2_c1.png"
+        },
+        {
+            "imgURL": "banner03_r2_c1.png"
+        },
+        {
+            "imgURL": "banner04_r2_c1.png"
+        },
+        {
+            "imgURL": "banner05_r2_c1.png"
+        }
+    ],
+    "navlist": [
+        {
+            "上装": [
+                {
+                    "imgURl": "shang-nav-01.png",
+                    "name": "羽绒服"
+                },
+                {
+                    "imgURl": "shang-nav-02.png",
+                    "name": "卫衣"
+                },
+                {
+                    "imgURl": "shang-nav-03.png",
+                    "name": "衬衫"
+                },
+                {
+                    "imgURl": "shang-nav-04.png",
+                    "name": "棉衣"
+                },
+                {
+                    "imgURl": "shang-nav-05.png",
+                    "name": "皮衣"
+                },
+                {
+                    "imgURl": "shang-nav-06.png",
+                    "name": "皮草"
+                },
+                {
+                    "imgURl": "shang-nav-07.png",
+                    "name": "风衣"
+                },
+                {
+                    "imgURl": "shang-nav-10.png",
+                    "name": "西服"
+                },
+                {
+                    "imgURl": "shang-nav-08.png",
+                    "name": "轻羽绒"
+                },
+                {
+                    "imgURl": "shang-nav-09.png",
+                    "name": "毛呢外套"
+                }
+            ],
+            "裙装": [
+                {
+                    "imgURL": "qun-nav-01.png",
+                    "name": "毛呢连衣裙"
+                },
+                {
+                    "imgURL": "qun-nav-02.png",
+                    "name": "冬款连衣裙"
+                },
+                {
+                    "imgURL": "qun-nav-03.png",
+                    "name": "短裤连衣裙"
+                },
+                {
+                    "imgURL": "qun-nav-04.png",
+                    "name": "套装裙"
+                },
+                {
+                    "imgURL": "qun-nav-05.png",
+                    "name": "秋冬裙装"
+                },
+                {
+                    "imgURL": "qun-nav-06.png",
+                    "name": "长袖裙"
+                },
+                {
+                    "imgURL": "qun-nav-07.png",
+                    "name": "背心裙"
+                },
+                {
+                    "imgURL": "qun-nav-08.png",
+                    "name": "半身裙"
+                },
+                {
+                    "imgURL": "qun-nav-09.png",
+                    "name": "秋季长裙"
+                }
+            ],
+            "裤装": [
+                {
+                    "imgURL": "kuzi-nav-01.png",
+                    "name": "打底裤"
+                },
+                {
+                    "imgURL": "kuzi-nav-02.png",
+                    "name": "牛仔裤"
+                },
+                {
+                    "imgURL": "kuzi-nav-03.png",
+                    "name": "打底裤"
+                },
+                {
+                    "imgURL": "kuzi-nav-04.png",
+                    "name": "秋冬长裤"
+                },
+                {
+                    "imgURL": "kuzi-nav-05.png",
+                    "name": "暖冬短裤"
+                },
+                {
+                    "imgURL": "kuzi-nav-06.png",
+                    "name": "小短裤"
+                },
+                {
+                    "imgURL": "kuzi-nav-07.png",
+                    "name": "哈伦裤"
+                }
+            ],
+            "品牌": [
+                {
+                    "imgURL": "pinpai-01.png",
+                    "name": "ochirly"
+                },
+                {
+                    "imgURL": "pinpai-02.png",
+                    "name": "zk"
+                },
+                {
+                    "imgURL": "pinpai-03.png",
+                    "name": "一米阳光"
+                },
+                {
+                    "imgURL": "pinpai-04.png",
+                    "name": "amass"
+                },
+                {
+                    "imgURL": "pinpai-05.png",
+                    "name": "tuneyune"
+                },
+                {
+                    "imgURL": "pinpai-06.png",
+                    "name": "tidezone"
+                },
+                {
+                    "imgURL": "pinpai-07.png",
+                    "name": "苏醒的乐园"
+                },
+                {
+                    "imgURL": "pinpai-08.png",
+                    "name": "商都芭比"
+                }
+            ]
+        }
+    ],
+    "bigList": [
+        {
+            "imgURL": "list-01.jpg",
+            "tit": "第七公社哆啦A梦T恤2015新款卡通动漫半截袖圆领印花度研修T恤衫潮",
+            "pirce": "￥89.0",
+            "btn": "试穿",
+            "img": [
+                {
+                    "bigimg": "xiangqin-01.png"
+                },
+                {
+                    "bigimg": "xiangqin-02.png"
+                },
+                {
+                    "bigimg": "xiangqin-03.png"
+                },
+                {
+                    "bigimg": "xiangqin-04.png"
+                }
+            ],
+            "size": {
+                "man": "男XS",
+                "man2": "男S",
+                "man3": "男M",
+                "man4": "男L",
+                "man5": "男XL",
+                "man6": "男XXL",
+                "woman1": "女S",
+                "woman2": "女M",
+                "woman3": "女L",
+                "woman4": "女XL"
+            },
+            "color": {
+                "white": "白色中长款",
+                "black": "黑搭肩中性款",
+                "yellow": "黄色中性款",
+                "blue": "湖蓝色中性款",
+                "gray": "灰色中性款",
+                "pink": "粉色收腰女款",
+                "red": "红色款式"
+            }
+        },
+        {
+            "imgURL": "list-02.jpg",
+            "tit": "水瓶宝贝2015韩版姐妹闺蜜装半截袖T恤女夏装短袖",
+            "pirce": "￥58.0",
+            "btn": "试穿",
+            "img": [
+                {
+                    "bigimg": "xiangqin-05.png"
+                },
+                {
+                    "bigimg": "xiangqin-06.png"
+                },
+                {
+                    "bigimg": "xiangqin-03.png"
+                },
+                {
+                    "bigimg": "xiangqin-04.png"
+                }
+            ],
+            "size": {
+                "man": "男XS",
+                "man2": "男S",
+                "man3": "男M",
+                "man4": "男L",
+                "man5": "男XL",
+                "man6": "男XXL",
+                "woman1": "女S",
+                "woman2": "女M",
+                "woman3": "女L",
+                "woman4": "女XL"
+            },
+            "color": {
+                "white": "白色中长款",
+                "black": "黑搭肩中性款",
+                "yellow": "黄色中性款",
+                "blue": "湖蓝色中性款",
+                "gray": "灰色中性款",
+                "pink": "粉色收腰女款",
+                "red": "红色款式"
+            }
+        },
+        {
+            "imgURL": "list-03.jpg",
+            "tit": "萌小雅夏季半截袖女可爱胡子百搭流行搞怪短袖T恤半袖时尚小短衫",
+            "pirce": "￥39.0",
+            "btn": "试穿",
+            "img": [
+                {
+                    "bigimg": "xiangqin-07.png"
+                },
+                {
+                    "bigimg": "xiangqin-08.png"
+                },
+                {
+                    "bigimg": "xiangqin-09.png"
+                },
+                {
+                    "bigimg": "xiangqin-04.png"
+                }
+            ],
+            "size": {
+                "woman": "X",
+                "woman2": "L",
+                "woman3": "XL",
+                "woman4": "XXL"
+            },
+            "color": {
+                "white": "白色小胡子T恤",
+                "red": "红色小胡子T恤",
+                "yellow": "黄色小胡子T恤"
+            }
+        },
+        {
+            "imgURL": "list-04.jpg",
+            "tit": "夏季粉红豹姐妹闺蜜装短袖T恤宽松班服女潮牌男情侣",
+            "pirce": "￥42.0",
+            "btn": "试穿",
+            "img": [
+                {
+                    "bigimg": "xiangqin-05.png"
+                },
+                {
+                    "bigimg": "xiangqin-06.png"
+                },
+                {
+                    "bigimg": "xiangqin-03.png"
+                },
+                {
+                    "bigimg": "xiangqin-04.png"
+                }
+            ],
+            "size": {
+                "man": "男XS",
+                "man2": "男S",
+                "man3": "男M",
+                "man4": "男L",
+                "man5": "男XL",
+                "man6": "男XXL",
+                "woman1": "女S",
+                "woman2": "女M",
+                "woman3": "女L",
+                "woman4": "女XL"
+            },
+            "color": {
+                "white": "白色中长款",
+                "black": "黑搭肩中性款",
+                "yellow": "黄色中性款",
+                "blue": "湖蓝色中性款",
+                "gray": "灰色中性款",
+                "pink": "粉色收腰女款",
+                "red": "红色款式"
+            }
+        },
+        {
+            "imgURL": "list-05.jpg",
+            "tit": "韩国UIzzang夏季宽松大码女短袖T恤衫班服情侣装T恤潮迷彩半截袖",
+            "pirce": "￥39.0",
+            "btn": "试穿",
+            "img": [
+                {
+                    "bigimg": "xiangqin-01.png"
+                },
+                {
+                    "bigimg": "xiangqin-02.png"
+                },
+                {
+                    "bigimg": "xiangqin-03.png"
+                },
+                {
+                    "bigimg": "xiangqin-04.png"
+                }
+            ],
+            "size": {
+                "man": "男XS",
+                "man2": "男S",
+                "man3": "男M",
+                "man4": "男L",
+                "man5": "男XL",
+                "man6": "男XXL",
+                "woman1": "女S",
+                "woman2": "女M",
+                "woman3": "女L",
+                "woman4": "女XL"
+            },
+            "color": {
+                "white": "白色中长款",
+                "black": "黑搭肩中性款",
+                "yellow": "黄色中性款",
+                "blue": "湖蓝色中性款",
+                "gray": "灰色中性款",
+                "pink": "粉色收腰女款",
+                "red": "红色款式"
+            }
+        },
+        {
+            "imgURL": "list-06.jpg",
+            "tit": "派衣秋季新品小脚运动裤女大码哈伦裤宽松休闲卫裤春秋加厚长裤",
+            "pirce": "￥99.0",
+            "btn": "试穿",
+            "img": [
+                {
+                    "bigimg": "xiangqin-05.png"
+                },
+                {
+                    "bigimg": "xiangqin-06.png"
+                },
+                {
+                    "bigimg": "xiangqin-03.png"
+                },
+                {
+                    "bigimg": "xiangqin-04.png"
+                }
+            ],
+            "size": {
+                "man": "S",
+                "man2": "M",
+                "man3": "L",
+                "man4": "XL",
+                "man5": "XXL"
+            },
+            "color": {
+                "white": "花灰色",
+                "red": "红色",
+                "blue": "宝蓝色",
+                "black": "黑色"
+            }
+        }
+    ],
+    "fenlei": [
+        {
+            "场合": [
+                {
+                    "imgURL": "chang-nav-01.png",
+                    "name": "甜蜜约会"
+                },
+                {
+                    "imgURL": "chang-nav-02.png",
+                    "name": "优雅的派对"
+                },
+                {
+                    "imgURL": "chang-nav-03.png",
+                    "name": "校园风格"
+                },
+                {
+                    "imgURL": "chang-nav-04.png",
+                    "name": "英伦复古"
+                },
+                {
+                    "imgURL": "chang-nav-05.png",
+                    "name": "懒人穿搭"
+                },
+                {
+                    "imgURL": "chang-nav-06.png",
+                    "name": "优雅上班"
+                },
+                {
+                    "imgURL": "chang-nav-07.png",
+                    "name": "周末聚会"
+                },
+                {
+                    "imgURL": "chang-nav-08.png",
+                    "name": "甜蜜约会"
+                },
+                {
+                    "imgURL": "chang-nav-09.png",
+                    "name": "度假出游"
+                }
+            ],
+            "风格": [
+                {
+                    "imgURL": "fengge-nav-01.png",
+                    "name": "韩系"
+                },
+                {
+                    "imgURL": "fengge-nav-02.png",
+                    "name": "欧美"
+                },
+                {
+                    "imgURL": "fengge-nav-03.png",
+                    "name": "甜美"
+                },
+                {
+                    "imgURL": "fengge-nav-04.png",
+                    "name": "学院"
+                },
+                {
+                    "imgURL": "fengge-nav-05.png",
+                    "name": "轻熟"
+                },
+                {
+                    "imgURL": "fengge-nav-06.png",
+                    "name": "复古"
+                },
+                {
+                    "imgURL": "fengge-nav-07.png",
+                    "name": "清新"
+                },
+                {
+                    "imgURL": "fengge-nav-08.png",
+                    "name": "嘻哈"
+                },
+                {
+                    "imgURL": "fengge-nav-09.png",
+                    "name": "百搭"
+                },
+                {
+                    "imgURL": "fengge-nav-10.png",
+                    "name": "民族"
+                }
+            ],
+            "身材": [
+                {
+                    "imgURL": "shencai-nav-01.png",
+                    "name": "大pp"
+                },
+                {
+                    "imgURL": "shencai-nav-02.png",
+                    "name": "娇小型"
+                },
+                {
+                    "imgURL": "shencai-nav-03.png",
+                    "name": "显瘦"
+                },
+                {
+                    "imgURL": "shencai-nav-04.png",
+                    "name": "平胸"
+                },
+                {
+                    "imgURL": "shencai-nav-05.png",
+                    "name": "粗臀"
+                },
+                {
+                    "imgURL": "shencai-nav-06.png",
+                    "name": "小肚腩"
+                },
+                {
+                    "imgURL": "shencai-nav-07.png",
+                    "name": "显白"
+                }
+            ],
+            "裙装": [
+                {
+                    "imgURL": "qun-nav-01.png",
+                    "name": "毛呢连衣裙"
+                },
+                {
+                    "imgURL": "qun-nav-02.png",
+                    "name": "秋冬连衣裙"
+                },
+                {
+                    "imgURL": "qun-nav-03.png",
+                    "name": "短裤连衣裙"
+                },
+                {
+                    "imgURL": "qun-nav-04.png",
+                    "name": "套装裙"
+                },
+                {
+                    "imgURL": "qun-nav-05.png",
+                    "name": "长袖裙"
+                },
+                {
+                    "imgURL": "qun-nav-06.png",
+                    "name": "背心裙"
+                },
+                {
+                    "imgURL": "qun-nav-07.png",
+                    "name": "秋季长裙"
+                },
+                {
+                    "imgURL": "qun-nav-08.png",
+                    "name": "毛呢连衣裙"
+                }
+            ],
+            "上装": [
+                {
+                    "imgURl": "shang-nav-01.png",
+                    "name": "羽绒服"
+                },
+                {
+                    "imgURl": "shang-nav-02.png",
+                    "name": "卫衣"
+                },
+                {
+                    "imgURl": "shang-nav-03.png",
+                    "name": "衬衫"
+                },
+                {
+                    "imgURl": "shang-nav-04.png",
+                    "name": "棉衣"
+                },
+                {
+                    "imgURl": "shang-nav-05.png",
+                    "name": "皮衣"
+                },
+                {
+                    "imgURl": "shang-nav-06.png",
+                    "name": "皮草"
+                },
+                {
+                    "imgURl": "shang-nav-07.png",
+                    "name": "风衣"
+                },
+                {
+                    "imgURl": "shang-nav-10.png",
+                    "name": "西服"
+                },
+                {
+                    "imgURl": "shang-nav-08.png",
+                    "name": "轻羽绒"
+                },
+                {
+                    "imgURl": "shang-nav-09.png",
+                    "name": "毛呢外套"
+                }
+            ],
+            "裤装": [
+                {
+                    "imgURL": "kuzi-nav-01.png",
+                    "name": "打底裤"
+                },
+                {
+                    "imgURL": "kuzi-nav-02.png",
+                    "name": "牛仔裤"
+                },
+                {
+                    "imgURL": "kuzi-nav-03.png",
+                    "name": "打底裤"
+                },
+                {
+                    "imgURL": "kuzi-nav-04.png",
+                    "name": "秋冬长裤"
+                },
+                {
+                    "imgURL": "kuzi-nav-05.png",
+                    "name": "暖冬短裤"
+                },
+                {
+                    "imgURL": "kuzi-nav-06.png",
+                    "name": "小短裤"
+                },
+                {
+                    "imgURL": "kuzi-nav-07.png",
+                    "name": "哈伦裤"
+                }
+            ]
+        }
+    ],
+    "dapei": [
+        {
+            "潮流": [
+                {
+                    "imgURL": "list-01.jpg",
+                    "tit": "2015年夏装新款韩版女装气质修身时尚连衣",
+                    "pirce": "￥89.0",
+                    "btn": "试穿",
+                    "img": [
+                        {
+                            "bigimg": "xiangqin-01.png"
+                            },
+                        {
+                            "bigimg": "xiangqin-02.png"
+                            },
+                        {
+                            "bigimg": "xiangqin-03.png"
+                            },
+                        {
+                            "bigimg": "xiangqin-04.png"
+                            }
+                        ],
+                    "size": {
+                        "man": "男XS",
+                        "man2": "男S",
+                        "man3": "男M",
+                        "man4": "男L",
+                        "man5": "男XL",
+                        "man6": "男XXL",
+                        "woman1": "女S",
+                        "woman2": "女M",
+                        "woman3": "女L",
+                        "woman4": "女XL"
+                    },
+                    "color": {
+                        "white": "白色中长款",
+                        "black": "黑搭肩中性款",
+                        "yellow": "黄色中性款",
+                        "blue": "湖蓝色中性款",
+                        "gray": "灰色中性款",
+                        "pink": "粉色收腰女款",
+                        "red": "红色款式"
+                    }
+                    },
+                {
+                    "imgURL": "list-02.png",
+                    "tit": "水瓶宝贝2015韩版姐妹闺蜜装半截袖T恤女夏装短袖",
+                    "pirce": "￥58.0",
+                    "btn": "试穿",
+                    "img": [
+                        {
+                            "bigimg": "xiangqin-05.png"
+                            },
+                        {
+                            "bigimg": "xiangqin-06.png"
+                            },
+                        {
+                            "bigimg": "xiangqin-03.png"
+                            },
+                        {
+                            "bigimg": "xiangqin-04.png"
+                            }
+                        ],
+                    "size": {
+                        "man": "男XS",
+                        "man2": "男S",
+                        "man3": "男M",
+                        "man4": "男L",
+                        "man5": "男XL",
+                        "man6": "男XXL",
+                        "woman1": "女S",
+                        "woman2": "女M",
+                        "woman3": "女L",
+                        "woman4": "女XL"
+                    },
+                    "color": {
+                        "white": "白色中长款",
+                        "black": "黑搭肩中性款",
+                        "yellow": "黄色中性款",
+                        "blue": "湖蓝色中性款",
+                        "gray": "灰色中性款",
+                        "pink": "粉色收腰女款",
+                        "red": "红色款式"
+                    }
+                    },
+                {
+                    "imgURL": "list-03.jpg",
+                    "tit": "萌小雅夏季半截袖女可爱胡子百搭流行搞怪短袖T恤半袖时尚小短衫",
+                    "pirce": "￥39.0",
+                    "btn": "试穿",
+                    "img": [
+                        {
+                            "bigimg": "xiangqin-07.png"
+                            },
+                        {
+                            "bigimg": "xiangqin-08.png"
+                            },
+                        {
+                            "bigimg": "xiangqin-09.png"
+                            },
+                        {
+                            "bigimg": "xiangqin-04.png"
+                            }
+                        ],
+                    "size": {
+                        "woman": "X",
+                        "woman2": "L",
+                        "woman3": "XL",
+                        "woman4": "XXL"
+                    },
+                    "color": {
+                        "white": "白色小胡子T恤",
+                        "red": "红色小胡子T恤",
+                        "yellow": "黄色小胡子T恤"
+                    }
+                    },
+                {
+                    "imgURL": "list-04.png",
+                    "tit": "夏季粉红豹姐妹闺蜜装短袖T恤宽松班服女潮牌男情侣",
+                    "pirce": "￥42.0",
+                    "btn": "试穿",
+                    "img": [
+                        {
+                            "bigimg": "xiangqin-05.png"
+                            },
+                        {
+                            "bigimg": "xiangqin-06.png"
+                            },
+                        {
+                            "bigimg": "xiangqin-03.png"
+                            },
+                        {
+                            "bigimg": "xiangqin-04.png"
+                            }
+                        ],
+                    "size": {
+                        "man": "男XS",
+                        "man2": "男S",
+                        "man3": "男M",
+                        "man4": "男L",
+                        "man5": "男XL",
+                        "man6": "男XXL",
+                        "woman1": "女S",
+                        "woman2": "女M",
+                        "woman3": "女L",
+                        "woman4": "女XL"
+                    },
+                    "color": {
+                        "white": "白色中长款",
+                        "black": "黑搭肩中性款",
+                        "yellow": "黄色中性款",
+                        "blue": "湖蓝色中性款",
+                        "gray": "灰色中性款",
+                        "pink": "粉色收腰女款",
+                        "red": "红色款式"
+                    }
+                    }
+            ],
+            "人气": [
+                {
+                    "imgURL": "list-06.png",
+                    "tit": "夏季粉红豹姐妹闺蜜装短袖T恤宽松班服女潮牌男情侣",
+                    "pirce": "￥42.0",
+                    "btn": "试穿",
+                    "img": [
+                        {
+                            "bigimg": "xiangqin-05.png"
+                },
+                        {
+                            "bigimg": "xiangqin-06.png"
+                },
+                        {
+                            "bigimg": "xiangqin-03.png"
+                },
+                        {
+                            "bigimg": "xiangqin-04.png"
+                }
+            ],
+                    "size": {
+                        "man": "男XS",
+                        "man2": "男S",
+                        "man3": "男M",
+                        "man4": "男L",
+                        "man5": "男XL",
+                        "man6": "男XXL",
+                        "woman1": "女S",
+                        "woman2": "女M",
+                        "woman3": "女L",
+                        "woman4": "女XL"
+                    },
+                    "color": {
+                        "white": "白色中长款",
+                        "black": "黑搭肩中性款",
+                        "yellow": "黄色中性款",
+                        "blue": "湖蓝色中性款",
+                        "gray": "灰色中性款",
+                        "pink": "粉色收腰女款",
+                        "red": "红色款式"
+                    }
+        },
+                {
+                    "imgURL": "list-08.png",
+                    "tit": "韩国UIzzang夏季宽松大码女短袖T恤衫班服情侣装T恤潮迷彩半截袖",
+                    "pirce": "￥39.0",
+                    "btn": "试穿",
+                    "img": [
+                        {
+                            "bigimg": "xiangqin-01.png"
+                        },
+                        {
+                            "bigimg": "xiangqin-02.png"
+                        },
+                        {
+                            "bigimg": "xiangqin-03.png"
+                        },
+                        {
+                            "bigimg": "xiangqin-04.png"
+                        }
+                    ],
+                    "size": {
+                        "man": "男XS",
+                        "man2": "男S",
+                        "man3": "男M",
+                        "man4": "男L",
+                        "man5": "男XL",
+                        "man6": "男XXL",
+                        "woman1": "女S",
+                        "woman2": "女M",
+                        "woman3": "女L",
+                        "woman4": "女XL"
+                    },
+                    "color": {
+                        "white": "白色中长款",
+                        "black": "黑搭肩中性款",
+                        "yellow": "黄色中性款",
+                        "blue": "湖蓝色中性款",
+                        "gray": "灰色中性款",
+                        "pink": "粉色收腰女款",
+                        "red": "红色款式"
+                    }
+                },
+                {
+                    "imgURL": "list-09.png",
+                    "tit": "派衣秋季新品小脚运动裤女大码哈伦裤宽松休闲卫裤春秋加厚长裤",
+                    "pirce": "￥99.0",
+                    "btn": "试穿",
+                    "img": [
+                        {
+                            "bigimg": "xiangqin-05.png"
+                        },
+                        {
+                            "bigimg": "xiangqin-06.png"
+                        },
+                        {
+                            "bigimg": "xiangqin-03.png"
+                        },
+                        {
+                            "bigimg": "xiangqin-04.png"
+                        }
+                    ],
+                    "size": {
+                        "man": "S",
+                        "man2": "M",
+                        "man3": "L",
+                        "man4": "XL",
+                        "man5": "XXL"
+                    },
+                    "color": {
+                        "white": "花灰色",
+                        "red": "红色",
+                        "blue": "宝蓝色",
+                        "black": "黑色"
+                    }
+                }
+            ]
+        }
+    ]
+}
